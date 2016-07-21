@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+
+    <layer name="demoapps.web"
+           interface="demoapps.web.interfaces.IDemoappsWebLayer" />
+
+</layers>
